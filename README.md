@@ -12,3 +12,5 @@ The work is inspired by the work above,but I have tried to look at a greater var
 
 Feel free to use similar ideas for data exploration.
 
+To use this file, just click on the Analysis.ipynb file
+
